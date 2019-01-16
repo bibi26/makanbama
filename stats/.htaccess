@@ -1,0 +1,7 @@
+AuthName "makanbama.ir statistics"
+AuthType Basic
+AuthUserFile /home/makanbama/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

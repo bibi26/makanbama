@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-08-20 18:34:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-08-20 18:34:13 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:34:13 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-08-20 18:34:14 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:34:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-20 18:34:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-20 18:34:18 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:34:18 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:34:33 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:34:33 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:34:42 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:34:43 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:35:24 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:35:24 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:37:37 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:37:37 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-08-20 18:37:37 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:37:59 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:38:00 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-08-20 18:38:00 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:38:19 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:38:19 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-08-20 18:38:20 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:39:25 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:39:25 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-08-20 18:39:25 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:39:40 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:39:41 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-08-20 18:39:41 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:40:48 --> 404 Page Not Found: Assets/img
+ERROR - 2017-08-20 18:40:48 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-08-20 18:40:48 --> 404 Page Not Found: Assets/img

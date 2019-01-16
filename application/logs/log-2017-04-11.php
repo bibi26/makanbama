@@ -1,0 +1,73 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-04-11 01:50:03 --> 404 Page Not Found: Testproxyphp/index
+ERROR - 2017-04-11 01:52:19 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 02:27:09 --> Severity: error --> Exception: Unterminated regular expression literal. /home/makanbama/public_html/system/plugins/jsmin.php 123
+ERROR - 2017-04-11 02:27:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 02:27:27 --> Severity: error --> Exception: Unterminated regular expression literal. /home/makanbama/public_html/system/plugins/jsmin.php 123
+ERROR - 2017-04-11 02:33:35 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:35 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:35 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:35 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 02:33:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 02:33:50 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:50 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:50 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:50 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:52 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:52 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:52 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:33:52 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:34:32 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:34:32 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:34:33 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:34:33 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 02:35:07 --> 404 Page Not Found: Js/spin.js
+ERROR - 2017-04-11 05:04:54 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2017-04-11 11:55:50 --> 404 Page Not Found: Pma/scripts
+ERROR - 2017-04-11 11:55:50 --> 404 Page Not Found: Myadmin/scripts
+ERROR - 2017-04-11 15:54:44 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 15:54:44 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 15:54:45 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 15:54:45 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 15:55:26 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 15:55:26 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 15:55:26 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 15:55:26 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:05:45 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:05:46 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:05:46 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:05:46 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:06:46 --> 404 Page Not Found: VerifyAccountC/verify
+ERROR - 2017-04-11 16:08:55 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:08:55 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:08:55 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:08:55 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:08:56 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:08:57 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:08:57 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:08:57 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:11 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:11 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:11 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:11 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:51 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:51 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:51 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:09:51 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:11:13 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:11:13 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:11:13 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:11:13 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:11:21 --> 404 Page Not Found: Js/spin.js
+ERROR - 2017-04-11 16:11:26 --> 404 Page Not Found: Js/spin.js
+ERROR - 2017-04-11 16:12:15 --> 404 Page Not Found: Js/spin.js
+ERROR - 2017-04-11 16:12:24 --> 404 Page Not Found: Js/spin.js
+ERROR - 2017-04-11 16:13:12 --> 404 Page Not Found: Js/jquery.min.map
+ERROR - 2017-04-11 16:13:18 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:13:18 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:13:19 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 16:13:19 --> 404 Page Not Found: Assets/img
+ERROR - 2017-04-11 19:23:56 --> Severity: Notice --> Undefined index: HTTP_HOST /home/makanbama/public_html/application/libraries/Openid.php 75
+ERROR - 2017-04-11 21:26:06 --> Severity: Notice --> Undefined index: HTTP_HOST /home/makanbama/public_html/application/libraries/Openid.php 75
